@@ -1,0 +1,6 @@
+ip privada: 10.0.2.15
+ip pública: 127.0.0.1/8
+dirección MAC: 08:00:27:b5:07
+
+La ip pública es igual.
+La ip privada es diferente
